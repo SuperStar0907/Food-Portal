@@ -1,4 +1,4 @@
-# MERN Stack Boilerplate
+# Food portal
 
 ## Installations
 
