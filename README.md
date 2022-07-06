@@ -37,18 +37,18 @@ npm install -g create-react-app
 
 ## Some working dashboard photos
 <p float="left">
-<img src="photos/a.png" alt="drawing" width="500" height="600"/>
-<img src="photos/b.png" alt="drawing" width="500" height="600"/>
-<img src="photos/c.png" alt="drawing" width="500" height="600"/>
-<img src="photos/d.png" alt="drawing" width="500" height="600"/>
-<img src="photos/e.png" alt="drawing" width="500" height="600"/>
-<img src="photos/g.png" alt="drawing" width="500" height="600"/>
-<img src="photos/f.png" alt="drawing" width="500" height="600"/>
-<img src="photos/h.png" alt="drawing" width="500" height="600"/>
-<img src="photos/i.png" alt="drawing" width="500" height="600"/>
-<img src="photos/j.png" alt="drawing" width="500" height="600"/>
-<img src="photos/k.png" alt="drawing" width="500" height="600"/>
-<img src="photos/l.png" alt="drawing" width="500" height="600"/>
+<img src="photos/a.png" alt="drawing" width="500" height="400"/>
+<img src="photos/b.png" alt="drawing" width="500" height="400"/>
+<img src="photos/c.png" alt="drawing" width="500" height="400"/>
+<img src="photos/d.png" alt="drawing" width="500" height="400"/>
+<img src="photos/e.png" alt="drawing" width="500" height="400"/>
+<img src="photos/g.png" alt="drawing" width="500" height="400"/>
+<img src="photos/f.png" alt="drawing" width="500" height="400"/>
+<img src="photos/h.png" alt="drawing" width="500" height="400"/>
+<img src="photos/i.png" alt="drawing" width="500" height="400"/>
+<img src="photos/j.png" alt="drawing" width="500" height="400"/>
+<img src="photos/k.png" alt="drawing" width="500" height="400"/>
+<img src="photos/l.png" alt="drawing" width="500" height="400"/>
 </p>
 <p align="center">
  <img src="photos/m.png" alt="drawing" width="300" height="400"/>
