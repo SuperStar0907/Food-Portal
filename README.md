@@ -37,8 +37,8 @@ npm install -g create-react-app
 
 ## Some working dashboard photos
 <p float="left">
-<img src="photos/a.png" alt="drawing" width="400"/>
-<img src="photos/b.png" alt="drawing" width="400"/>
+<img src="photos/a.png" alt="drawing" width="500"/>
+<img src="photos/b.png" alt="drawing" width="500"/>
 <img src="photos/c.png" alt="drawing" width="400"/>
 <img src="photos/d.png" alt="drawing" width="400"/>
 <img src="photos/e.png" alt="drawing" width="400"/>
