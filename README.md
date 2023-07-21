@@ -1,4 +1,10 @@
-# Food portal
+# Food portal [Hosted Website](https://food-portal-frontend.vercel.app/)
+## Deployment status
+Backend (on render) : [Hosted Backend](https://food-backend-one.onrender.com)
+
+Frontend (on vercel) : [Hosted Frontend](https://food-portal-frontend.vercel.app/)
+
+Database (MongoDB atlas)
 
 ## For running the app
 
